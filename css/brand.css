@@ -1,0 +1,51 @@
+.brand-h2 {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 35px;
+  color: #00194a;
+  line-height: 50px;
+  letter-spacing: 0px;
+  margin-bottom: 30px;
+}
+.brand-p {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 18px;
+  color: #6b6b6b;
+  line-height: 28px;
+  letter-spacing: 0px;
+}
+.dca {
+  margin-left: 300px;
+}
+
+.dc-h4 {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 18px;
+  color: #00194a;
+  line-height: 100%;
+  letter-spacing: 0px;
+  margin-bottom: 15px;
+}
+.dc-p {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 14px;
+  color: #6b6b6b;
+  line-height: 23px;
+  letter-spacing: 0px;
+}
+.dc-img {
+  margin-bottom: 26px;
+}
+.brand-div {
+  display: flex;
+  justify-content: center;
+  gap: 110px;
+}
+@media (max-width: 400px) {
+  .dca {
+    margin-left: 0px;
+  }
+}

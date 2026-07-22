@@ -1,0 +1,33 @@
+.shield-data {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 18px;
+  color: #00194a;
+  line-height: 100%;
+  letter-spacing: 0px;
+}
+.shield-div {
+  display: flex;
+  gap: 30px;
+}
+.shield {
+  display: flex;
+  gap: 480px;
+  justify-content: center;
+}
+.shield-a {
+  text-decoration: none;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 16px;
+  color: #00194a;
+  line-height: 100%;
+  letter-spacing: 0px;
+  text-align: right;
+}
+@media (max-width: 850px) {
+  .shield {
+    gap: 200px;
+    flex-wrap: wrap;
+  }
+}

@@ -1,0 +1,47 @@
+.share-h2 {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 35px;
+  color: #ffffff;
+  line-height: 50px;
+  letter-spacing: 0px;
+  text-align: center;
+  padding-top: 50px;
+  margin-bottom: 30px;
+}
+.share-p {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 18px;
+  color: #ffffff;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.share {
+  background: #00194a;
+  padding: 500px 0px;
+  border-radius: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 80px;
+}
+.share-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.share-btn {
+  padding: 20px 30px;
+  background: #ff0043;
+  border-radius: 30px;
+  border: none;
+  font-family: SourceSansPro;
+  font-weight: 700;
+  font-size: 16px;
+  color: #ffffff;
+  line-height: 100%;
+  letter-spacing: 0px;
+}

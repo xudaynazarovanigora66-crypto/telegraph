@@ -1,0 +1,41 @@
+.comment-img {
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: 234px;
+}
+.groupe {
+  max-width: 500px;
+
+  position: relative;
+  top: 50px;
+  right: 250px;
+  width: 100%;
+  margin-bottom: 100px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.group {
+  display: flex;
+}
+.comment {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.group-h2 {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 35px;
+  color: #00194a;
+  line-height: 50px;
+  letter-spacing: 0px;
+  margin-bottom: 30px;
+}
+.group-p {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 18px;
+  color: #6b6b6b;
+  line-height: 28px;
+  letter-spacing: 0px;
+}

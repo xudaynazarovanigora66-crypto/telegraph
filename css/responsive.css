@@ -1,0 +1,41 @@
+@media (max-width: 900px) {
+  .chat-div {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 900px) {
+  .chat {
+    flex-direction: column;
+  }
+}
+@media (max-width: 1000px) {
+  .windows {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  .comment {
+    flex-direction: column;
+  }
+
+  .chat-img {
+    width: 100%;
+    max-width: 550px;
+  }
+}
+@media (max-width: 500px) {
+  .windows-p {
+    margin-bottom: 215px;
+  }
+}
+@media (max-width: 675px) {
+  .brand-div {
+    flex-direction: column;
+  }
+}
+@media (max-width: 850px) {
+  .groupe {
+    left: 10px;
+  }
+}
